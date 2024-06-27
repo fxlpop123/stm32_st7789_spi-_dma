@@ -1,0 +1,9 @@
+..\..\output\qrcodegen.o: ..\..\Middlewares\LVGL\src\extra\libs\qrcode\qrcodegen.c
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\assert.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\qrcodegen.o: ..\..\Middlewares\LVGL\src\extra\libs\qrcode\qrcodegen.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\qrcodegen.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdint.h

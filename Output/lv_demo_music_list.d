@@ -1,0 +1,9 @@
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\lv_demo_music_list.c
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\lv_demo_music_list.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\lv_demo_music.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\../lv_demos.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\../../lvgl.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\../../src/misc/lv_log.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\../../src/misc/../lv_conf_internal.h
+..\..\output\lv_demo_music_list.o: D:\KeilMDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\lv_demo_music_list.o: ..\..\Middlewares\LVGL\demos\music\../../src/misc/../lv_conf_kconfig.h
